@@ -1,4 +1,4 @@
-# react-dr
+# react-rr
 
 ### 一个可以拖拽和缩放并且显示对齐辅助线的React组件
 
