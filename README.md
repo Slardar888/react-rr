@@ -2,7 +2,11 @@
 
 ### 一个可以拖拽和缩放并且显示对齐辅助线的React组件
 
-## Usage
+## 安装
+
+`$ npm install --save react-dr`
+
+## 使用
 
 ```javascript
 import dr from 'react-dr'
