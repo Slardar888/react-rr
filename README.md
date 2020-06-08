@@ -4,7 +4,7 @@
 
 ## 安装
 
-`$ npm install --save react-dr`
+`$ npm install --save react-rr`
 
 ## 使用
 
