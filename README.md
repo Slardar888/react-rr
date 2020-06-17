@@ -9,10 +9,10 @@
 ## 使用
 
 ```javascript
-import dr from 'react-dr'
+import rr from 'react-rr'
 
-const Chessboard = dr.Chessboard
-const Chessman = dr.Chessman
+const Chessboard = rr.Chessboard
+const Chessman = rr.Chessman
 
 class APP extends React.Component {
   state = {

@@ -1,6 +1,6 @@
 {
-  "name": "react-dr",
-  "version": "1.0.0",
+  "name": "react-rr",
+  "version": "1.0.2",
   "description": "A resizable and draggable component for React",
   "main": "dist/dr.js",
   "scripts": {
