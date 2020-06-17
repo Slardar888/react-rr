@@ -55,6 +55,22 @@ class APP extends React.Component {
 }
 ```
 
+```css
+.custom-chessboard {
+  width : 1200px;
+  height: 800px;
+  margin: 0 auto;
+  border: 1px solid #aaa;
+}
+.custom-chessman {
+  width           : 100%;
+  height          : 100%;
+  background-color: pink;
+  border          : 1px solid #ccc;
+  border-radius   : 2px;
+}
+```
+
 ## ChessboardProps
 
 #### `onChange: `
